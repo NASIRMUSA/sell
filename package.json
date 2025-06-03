@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://nasirmusa.github.io/sell",
+    "homepage": "hhttps://nasirmusa.github.io/sell/",
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
